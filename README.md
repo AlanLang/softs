@@ -4,5 +4,7 @@
 * 文件搜索：[Everything](http://www.voidtools.com/)
 * 翻墙：[Shadowsocks](https://shadowsocks.org/en/index.html)
 * 剪切板：[ditto](https://ditto-cp.sourceforge.io/)
+* 视频播放：[potplayer](https://potplayer.daum.net/)
+* 解压缩：[7zip](https://www.7-zip.org/)
 
 ## mac
