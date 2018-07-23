@@ -7,5 +7,6 @@
 * 视频播放：[potplayer](https://potplayer.daum.net/)
 * 解压缩：[7zip](https://www.7-zip.org/)
 * 效率增强：[capslock+](http://cjkis.me/capslock+/)
+* 图片查看：[irfanview](https://www.irfanview.com/)
 
 ## mac
