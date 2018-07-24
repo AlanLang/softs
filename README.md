@@ -11,5 +11,6 @@
 * 图片查看：[irfanview](https://www.irfanview.com/)
 * MySql客户端：[heidisql](https://www.heidisql.com/)
 * MarkDown工具：[typora](https://typora.io/)
+* 截图工具：[snipaste](https://zh.snipaste.com/)
 
 ## mac
