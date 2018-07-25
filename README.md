@@ -12,5 +12,7 @@
 * MySql客户端：[heidisql](https://www.heidisql.com/)
 * MarkDown工具：[typora](https://typora.io/)
 * 截图工具：[snipaste](https://zh.snipaste.com/)
+* api查询：[Zeal](https://zealdocs.org/)
 
 ## mac
+* api查询：[Dash](https://kapeli.com/dash)
